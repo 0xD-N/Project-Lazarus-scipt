@@ -1,2 +1,22 @@
-# Project-Lazarus-scipt
-Script for project lazarus
+# 100-Days-of-code-with-python
+
+This repository contains source code for a script for the game [project lazarus](https://www.roblox.com/games/443406476/Project-Lazarus-ZOMBIES-NAIL-GUN)
+
+
+Features:
+
+## Weapon Menu
+
+- Infinite Ammo
+
+- No Bullet Spread
+
+- No Recoil
+
+## Aimbot Menu
+
+- Triggerbot
+
+- Aimbot
+
+- Visibility check (WIP)
